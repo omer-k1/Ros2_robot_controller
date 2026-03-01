@@ -1,0 +1,14 @@
+build/
+install/
+log/
+
+__pycache__/
+*.pyc
+
+.vscode/
+.DS_Store
+
+src/custom_robot_interfaces/
+
+src/gazebo_turtle_controller/gazebo_turtle_controller/turtle_controller1.py
+src/gazebo_turtle_controller/gazebo_turtle_controller/turtle_controller2.py
